@@ -1,0 +1,23 @@
+//fonts
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;900&display=swap');
+
+//variaveis
+@import './variaveis.scss';
+
+//components
+@import './header.scss';
+@import './nav-produtos.scss';
+@import './banners-promocionais-statico.scss';
+@import './produtos.scss';
+@import './footer.scss';
+@import './produtos-compra.scss';
+@import './responsive.scss';
+
+//framework
+@import './bootstrap.scss';
+
+//componente bootstrap
+@import './breadcrumb.scss';
+
+//config
+@import './config.scss';
